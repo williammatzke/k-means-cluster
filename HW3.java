@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main class that acts as a launcher for your clustering algorithm. DO NOT MODIFY.
+ * This class written by Collin Engstrom or CS540-associated TAs
  *
  */
 

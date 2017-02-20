@@ -1,13 +1,10 @@
 /**
- * Result class for KMeans cluster method. DO NOT MODIFY. 
+ * This class written by Collin Engstrom or CS540-associated TAs
  *
  */
 
 public class KMeansResult {
-	// the position of the centroids after your clustering is complete
 	double[][] centroids;
-	// the sequence of distortions recorded on each iteration of the clustering algorithm 
 	double[] distortionIterations;
-	// the index of the centroid assigned to each instance in the final clustering
 	int[] clusterAssignment;
 }

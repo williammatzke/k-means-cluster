@@ -1,7 +1,6 @@
-
 /**
- * A k-means clustering algorithm implementation.
- * 
+ * This class written by William Matzke for CS540
+ *
  */
 
 import java.util.ArrayList;
